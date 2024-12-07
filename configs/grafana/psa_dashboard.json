@@ -194,7 +194,7 @@
                     "fieldSrc": "field",
                     "operator": "like",
                     "value": [
-                      "halvarado"
+                      "jmedina"
                     ],
                     "valueError": [
                       null
@@ -212,7 +212,7 @@
               "id": "ab988baa-0123-4456-b89a-b1915dd80d02",
               "type": "group"
             },
-            "whereString": "host LIKE '%halvarado%'"
+            "whereString": "host LIKE '%jmedina%'"
           },
           "table": "servers_data"
         }
@@ -377,7 +377,7 @@
                     "fieldSrc": "field",
                     "operator": "like",
                     "value": [
-                      "halvarado"
+                      "jmedina"
                     ],
                     "valueError": [
                       null
@@ -395,7 +395,7 @@
               "id": "ab988baa-0123-4456-b89a-b1915dd80d02",
               "type": "group"
             },
-            "whereString": "host LIKE '%halvarado%'"
+            "whereString": "host LIKE '%jmedina%'"
           },
           "table": "servers_data"
         }
@@ -711,7 +711,7 @@
                     "fieldSrc": "field",
                     "operator": "like",
                     "value": [
-                      "halvarado"
+                      "jmedina"
                     ],
                     "valueError": [
                       null
@@ -729,7 +729,7 @@
               "id": "889aaa89-0123-4456-b89a-b19159aa4214",
               "type": "group"
             },
-            "whereString": "host LIKE '%halvarado%'"
+            "whereString": "host LIKE '%jmedina%'"
           },
           "table": "servers_data"
         }
@@ -1031,7 +1031,7 @@
                     "fieldSrc": "field",
                     "operator": "like",
                     "value": [
-                      "halvarado"
+                      "jmedina"
                     ],
                     "valueError": [
                       null
@@ -1049,7 +1049,7 @@
               "id": "ab988baa-0123-4456-b89a-b1915dd80d02",
               "type": "group"
             },
-            "whereString": "host LIKE '%halvarado%'"
+            "whereString": "host LIKE '%jmedina%'"
           },
           "table": "servers_data"
         }
@@ -1066,8 +1066,8 @@
       {
         "current": {
           "selected": false,
-          "text": "halvarado",
-          "value": "halvarado"
+          "text": "jmedina",
+          "value": "jmedina"
         },
         "hide": 0,
         "label": "",
@@ -1075,11 +1075,11 @@
         "options": [
           {
             "selected": true,
-            "text": "halvarado",
-            "value": "halvarado"
+            "text": "jmedina",
+            "value": "jmedina"
           }
         ],
-        "query": "halvarado",
+        "query": "jmedina",
         "skipUrlSync": false,
         "type": "textbox"
       }
